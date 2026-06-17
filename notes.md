@@ -1,5 +1,11 @@
 # First stack to learn
 
+# Interview tips 
+
+- Take notes 
+
+# Stack overview
+
 The required/common stack includes:
 
 * Snowflake - SQL, Python
@@ -482,6 +488,7 @@ Ask:
 If required to answer:
 
 Provide a range instead of a fixed number.
+range 25k-35 in getmanfred but i will ask 30k-35k
 
 ---
 
