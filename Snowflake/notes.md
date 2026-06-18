@@ -49,3 +49,16 @@ Query processing layer --> It splits from metadata into : Virtual warehouse. The
 
 Data storage layer --> For example AWS S3 that is scalable, available and durable. Compute clases 
 
+Characteristics of this data architecture:
+	- Decouple storage, compute and management services.
+	- Three infinitely scalable layers.
+	- Workload isolation with virtual warehouses.
+
+### Snowflake Trial Account Setup
+
+Tengo 30 dias de free pero con cuidado.
+
+### Object Hierarchy
+
+There is more specified for data proccessing -> Snowpark(python, java, scala) and Snowsight UI
+ - SQL Language -> Account management, ingestion, transformation and analysis. SQL goes to an object in snowflake that is somenthing you can interact with or issue command against-like a database, table, or warehouse - that provides specific functionality within the platform.

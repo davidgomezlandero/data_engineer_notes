@@ -542,3 +542,6 @@ Demonstrate:
 * Professional attitude
 
 The objective of the first interview is to advance to the technical stage.
+
+# Star project explanations
+
